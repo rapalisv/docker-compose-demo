@@ -1,0 +1,11 @@
+*.properties
+docker-compose-demo-container-service/mvnw
+*.cmd
+docker-compose-demo-container-service/.mvn/wrapper/maven-wrapper.jar
+*.gitkeep
+*.project
+.settings/org.eclipse.m2e.core.prefs
+*.jar
+docker-compose-demo-container-client/mvnw
+*.jar
+docker-compose-demo-container-client/.mvn/wrapper/maven-wrapper.jar
